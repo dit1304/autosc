@@ -85,10 +85,10 @@ https://wa.me/6285881777396 ☎️
    <img src="https://img.shields.io/github/forks/YINNSTORE/vip?color=cyan&logo=java&logoColor=yellow">
    <img src="https://img.shields.io/github/stars/YINNSTORE/vip?color=green&logo=ruby&logoColor=red">
    <img src="https://img.shields.io/static/v1?label=SHELL&message=%20&logo=shell&color=grey&link=https://github.com/YINNSTORE/vip">
-   <img src="https://img.shields.io/static/v1?label=CODEC%20BY%20YINN&message=%20&logo=apache">
+   <img src="https://img.shields.io/static/v1?label=CODEC%20BY%20ZEROSTORE&message=%20&logo=apache">
 </p>
 <p align="center">
-   <img src="https://img.shields.io/static/v1?label=YINN&message=STR%20AUTOSCRIPT&color=blue&logo=jinja&logoColor=red"><br>
+   <img src="https://img.shields.io/static/v1?label=ZERO&message=STORE%20AUTOSCRIPT&color=blue&logo=jinja&logoColor=red"><br>
    <code><img src="https://img.shields.io/static/v1?label=MADE&message=INDONESIA&color=red"></code>
 </p>
 <br>

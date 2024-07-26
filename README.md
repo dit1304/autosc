@@ -1,5 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=YINN+VPN+TUNNELING+SERVICE" /></p>
-<p align='center'><a href="https://api.daily.dev/get?r=fisabiliyusri"><img src="https://raw.githubusercontent.com/fisabiliyusri/.github/main/kotori2.png?r=82s" width="150" alt="Hayuk"/></a></p>
+
 
 
 
@@ -25,24 +24,24 @@
 <pre><code>apt update && apt upgrade -y</code></pre>
 
 ### INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/YINNSTORE/vip/main/premi.sh && chmod +x premi.sh && ./premi.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/dit1304/autosc/main/premi.sh && chmod +x premi.sh && ./premi.sh
 </code></pre>
 
 ### UPDATE SCRIPT
-<pre><code>wget https://raw.githubusercontent.com/YINNSTORE/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/dit1304/autosc/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
 
 ### INSTALL SERVICE UDP-CUSTOM
-<pre><code>wget https://raw.githubusercontent.com/YINNSTORE/vip/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh</code></pre>
+<pre><code>wget https://raw.githubusercontent.com/dit1304/autosc/main/udp-custom.sh && chmod +x udp-custom.sh && ./udp-custom.sh</code></pre>
 
 
 ### FIX INSTALL SCRIPT 
-<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/YINNSTORE/vip/main/premi.sh && chmod +x premi.sh && echo "*/5 * * * * limit-ssh-ip" >> crontab && ./premi.sh
+<pre><code>apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/dit1304/autosc/main/premi.sh && chmod +x premi.sh && echo "*/5 * * * * limit-ssh-ip" >> crontab && ./premi.sh
 </code></pre>
 
 
-### WAJIB IZIN IP CONTACT ADMIN ©YINN STORE
-https://wa.me/6283845852328 ☎️
+### IZIN AUTOSC
+https://wa.me/6285881777396 ☎️
 
 
 
@@ -81,8 +80,6 @@ https://wa.me/6283845852328 ☎️
 ```
 
 ### INFO AUTOSCRIPT
-
-<!-- <img src="https://github.com/YINNSTORE/STRESS_vip/blob/main/foto/20220206_185236.png" width="200" ="200" --!>
 
 <p>
    <img src="https://img.shields.io/github/forks/YINNSTORE/vip?color=cyan&logo=java&logoColor=yellow">
